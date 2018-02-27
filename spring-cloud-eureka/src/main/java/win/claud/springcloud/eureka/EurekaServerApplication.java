@@ -1,4 +1,4 @@
-package win.claud.spring.eureka;
+package win.claud.springcloud.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
